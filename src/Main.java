@@ -40,6 +40,7 @@ public class Main {
         n.add('8');
         n.add('9');
         n.add('0');
+
         System.out.println(smallest(1,3,2));
         System.out.println(check(-1));
         System.out.println(isVal("Hello My name412",c,n));
